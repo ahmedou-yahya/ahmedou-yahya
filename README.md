@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ahmedou Yahya!
-
+---
 I am a Computer Science student passionate about devOps and fullstack development. Highly-capable leader, having led multiple Senior class projects to completion. Proficient in a range of modern technologies including Spring Boot, Angular, docker and kubernetes. 
 ---
 

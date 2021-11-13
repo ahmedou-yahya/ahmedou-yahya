@@ -9,6 +9,7 @@ I am a Software Engineering student passionate about devOps and fullstack develo
 <img src='https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg' alt="Angular logo" width="50" height="50"><img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' alt="Java logo" width="50" height="50"><img src='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg' alt="Spring logo" width="50" height="50"><img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg' alt="Docker logo" width="50" height="50"><img src='https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg' alt="k8s logo" width="50" height="50">
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedou-yahya)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
